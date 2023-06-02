@@ -7,4 +7,5 @@ coverage
 .env
 .*
 README.md
+gap-report.txt
 coverage.json
