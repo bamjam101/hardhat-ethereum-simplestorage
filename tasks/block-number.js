@@ -8,3 +8,5 @@ task("block-number", "Prints the current block number").setAction(
         console.log(`Current block number: ${blockNumber}`)
     }
 )
+
+module.exports = {}
